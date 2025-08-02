@@ -8,7 +8,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     }
     void Start()
     {
-        
+        Debug.Log("from linux");
     }
 
     // Update is called once per frame
